@@ -7,3 +7,5 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | Methods | Year | From | Author | 
 |:-------:|:-------:|:-------:|:-------:|
 | PNN | 2016 | [Remote Sensing](https://www.mdpi.com/2072-4292/8/7/594) | Masi et al. |
+| PanNet | 2017 | [ICCV](https://arxiv.org/abs/1908.05900) | Yang et al. |
+| DiCNN | 2019 | [JSTARS](https://ieeexplore.ieee.org/document/8667040) | He et al. |
