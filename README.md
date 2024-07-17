@@ -12,9 +12,9 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 
 ## Datasets
 ~~
-| Name | Number of Multi-Spectral Bands | Type | Ground Sample Distance | Sets | Sample Number | Image Size |
-|:-------:|:-------:|:-------:|:-------:|-------:|-------:|-------:|
-|1|2|3|4|5|6|7|
+| Name | Number of Multi-Spectral Bands | Type | Ground Sample Distance | Sets | Sample Number | Image Size | From |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|GaoFen-2|4|MS\\PAN|4|5|6|7|8|
 
 ## Quality Assessment Indices
 ~~
