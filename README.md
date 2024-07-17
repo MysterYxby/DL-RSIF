@@ -8,18 +8,23 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 |:-------:|:-------:|
 |ICCV|IEEE International Conference on Computer Vision|
 |JSTARS|IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing|
+|LGRS|IEEE Geoscience and Remote Sensing Letters|
+|TGRS|IEEE Transactions on Geoscience and Remote Sensing|
 |NMSB|Number of Multi-Spectral Bands|
 |GSD|Ground Sample Distance|
 |RRT|Reduced Resolution Testing|
 |FRT|Full Resolution Testing Set|
 
 ## Methods
-| Methods | Year | From | Author | 
+| Methods | Year | Author | From | 
 |:-------:|:-------:|:-------:|:-------:|
-| PNN | 2016 | [Remote Sensing](https://www.mdpi.com/2072-4292/8/7/594) | Masi et al. |
-| PanNet | 2017 | [ICCV](https://arxiv.org/abs/1908.05900) | Yang et al. |
-| DiCNN | 2019 | [JSTARS](https://ieeexplore.ieee.org/document/8667040) | He et al. |
-
+| PNN | 2016 | Masi et al. | [Remote Sensing](https://www.mdpi.com/2072-4292/8/7/594) | 
+|DRPNN| 2017 |Wei et al. | [LGRS](10.1109/LGCRS.2017.2736020) |
+|MSDCNN| 2018 |Yuan et al.|[JSTARS](10.1109/JSTARS.2018.2794888)| 
+| PanNet | 2017 | Yang et al. | [ICCV](https://arxiv.org/abs/1908.05900) |
+| DiCNN | 2019 | He et al. | [JSTARS](https://ieeexplore.ieee.org/document/8667040) |
+| BDPN  | 2019 |Zhang et al.|[TGRS](10.1109/TGRS.2019.2900419) |
+|FusionNet |2021 |Deng el al.| [TGRS](10.1109/TGRS.2020.3031366) |
 ## Datasets
 
 | Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
