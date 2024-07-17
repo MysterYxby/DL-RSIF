@@ -24,7 +24,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 ### Table
 | Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|GaoFen-2|4|PAN<br>MS|0.8m<br>3.2m|Training<br>Validation<br>RRT<br>FRT|19809<br>2201<br>20<br>20|$64 \times 64$<br>64<br>256<br>512|[1]|
+|GaoFen-2|4|PAN<br>MS|0.8m<br>3.2m|Training<br>Validation<br>RRT<br>FRT|19809<br>2201<br>20<br>20|$64 \times 64 \times 1, 64 \times 64 \times 4$<br>64<br>256<br>512|[1]|
 
 ### Reference
 - [1] demo
