@@ -13,7 +13,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 |NMSB|Number of Multi-Spectral Bands|
 |GSD|Ground Sample Distance|
 |RRT|Reduced Resolution Testing|
-|FRT|Full Resolution Testing Set|
+|FRT|Full Resolution Testing|
 
 ## Methods
 | Methods | Year | Author | From | 
