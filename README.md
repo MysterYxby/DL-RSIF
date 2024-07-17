@@ -9,3 +9,13 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | PNN | 2016 | [Remote Sensing](https://www.mdpi.com/2072-4292/8/7/594) | Masi et al. |
 | PanNet | 2017 | [ICCV](https://arxiv.org/abs/1908.05900) | Yang et al. |
 | DiCNN | 2019 | [JSTARS](https://ieeexplore.ieee.org/document/8667040) | He et al. |
+
+## Datasets
+~~
+| Name | Number of Multi-Spectral Bands | Type | Ground Sample Distance | Sets | Sample Number | Image Size |
+|:-------:|:-------:|:-------:|:-------:|-------:|-------:|-------:|
+|1|2|3|4|5|6|7|
+
+## Quality Assessment Indices
+~~
+
