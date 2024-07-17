@@ -17,13 +17,14 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | Abbreviation | Explanation |
 |:-------:|:-------:|
 |NMSB|Number of Multi-Spectral Bands|
-|GSD|Number of Multi-Spectral Bands|
+|GSD|Ground Sample Distance|
+|RRT|Reduced Resolution Testing|
+|FRT|Full Resolution Testing Set|
 
---
 ### Table
 | Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|GaoFen-2|4|MS<br>PAN|4|5|6|7|8|
+|GaoFen-2|4|PAN<br>MS|0.8m<br>3.2m|Training<br>Validation<br>RRT<br>FRT|6|7|8|
 
 ## Quality Assessment Indices
 ~~
