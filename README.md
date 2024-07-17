@@ -3,7 +3,9 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 ## Code Illustration
 ~~
 ## Methods
+### Abbreviation Explanation
 
+### Table
 | Methods | Year | From | Author | 
 |:-------:|:-------:|:-------:|:-------:|
 | PNN | 2016 | [Remote Sensing](https://www.mdpi.com/2072-4292/8/7/594) | Masi et al. |
@@ -11,10 +13,17 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | DiCNN | 2019 | [JSTARS](https://ieeexplore.ieee.org/document/8667040) | He et al. |
 
 ## Datasets
-~~
-| Name | Number of Multi-Spectral Bands | Type | Ground Sample Distance | Sets | Sample Number | Image Size | From |
+### Abbreviation Explanation
+| Abbreviation | Explanation |
+|:-------:|:-------:|
+|NMSB|Number of Multi-Spectral Bands|
+|GSD|Number of Multi-Spectral Bands|
+
+--
+### Table
+| Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|GaoFen-2|4|MS\\PAN|4|5|6|7|8|
+|GaoFen-2|4|MS<br>PAN|4|5|6|7|8|
 
 ## Quality Assessment Indices
 ~~
