@@ -20,8 +20,8 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 |:-------:|:-------:|:-------:|:-------:|
 | PNN | 2016 | Masi et al. | [Remote Sensing](https://www.mdpi.com/2072-4292/8/7/594) | 
 |DRPNN| 2017 |Wei et al. | [LGRS](https://ieeexplore.ieee.org/document/8012503) |
-|MSDCNN| 2018 |Yuan et al.|[JSTARS](https://ieeexplore.ieee.org/document/8127731)| 
 | PanNet | 2017 | Yang et al. | [ICCV](https://ieeexplore.ieee.org/document/8237455) |
+|MSDCNN| 2018 |Yuan et al.|[JSTARS](https://ieeexplore.ieee.org/document/8127731)| 
 | DiCNN | 2019 | He et al. | [JSTARS](https://ieeexplore.ieee.org/document/8667040) |
 | BDPN  | 2019 |Zhang et al.|[TGRS](https://ieeexplore.ieee.org/document/8667448) |
 |FusionNet |2021 |Deng el al.| [TGRS](https://ieeexplore.ieee.org/document/9240949) |
