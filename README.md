@@ -32,12 +32,12 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 
 | Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|GaoFen-2|4|PAN<br>MS|0.8m<br>3.2m|Training<br>Validation<br>RRT<br>FRT|19809<br>2201<br>20<br>20|$64 \times 64 \times 1, 64 \times 64 \times 4$<br>$64 \times 64 \times 1, 64 \times 64 \times 4$<br>$256 \times 256 \times 1, 256 \times 256 \times 4$<br>$512 \times 512 \times 1, 512 \times 512 \times 4$|[1]|
-
-### Reference
-- [1] L.-j. Deng, G. Vivone, M. E. Paoletti, G. Scarpa, J. He, Y. Zhang, J. Chanussot, and A. Plaza, “Machine learning in pansharpening: A benchmark, from shallow to deep networks,” IEEE Geoscience and Remote Sensing Magazine, p. 279–315, Sep 2022.
-- [2] demo
-
+|GaoFen-2|4|PAN<br>MS|0.8m<br>3.2m|Training<br>Validation<br>RRT<br>FRT|19809<br>2201<br>20<br>20|$64 \times 64 \times 1, 16 \times 16 \times 4$<br>$64 \times 64 \times 1, 16 \times 16 \times 4$<br>$256 \times 256 \times 1, 64 \times 64 \times 4$<br>$512 \times 512 \times 1, 128 \times 128 \times 4$|[1]|
+|QuickBird|4|PAN<br>MS|0.61m<br>2.44m|Training<br>Validation<br>RRT<br>FRT|17139<br>1905<br>20<br>20|$64 \times 64 \times 1, 16 \times 16 \times 4$<br>$64 \times 64 \times 1, 16 \times 16 \times 4$<br>$256 \times 256 \times 1, 64 \times 64 \times 4$<br>$512 \times 512 \times 1, 128 \times 128 \times 4$|[1]|
+|WorldView-2|4|PAN<br>MS|0.8m<br>3.2m|Training<br>Validation<br>RRT<br>FRT|-<br>-<br>20<br>20|$--, --$<br>$--, --$<br>$256 \times 256 \times 1, 64 \times 64 \times 4$<br>$512 \times 512 \times 1, 128 \times 128 \times 4$|[1]|
+|Worldview-3|4|PAN<br>MS|0.31m<br>1.24m|Training<br>Validation<br>RRT<br>FRT|9714<br>1080<br>20<br>20|$64 \times 64 \times 1, 16 \times 16 \times 4$<br>$64 \times 64 \times 1, 16 \times 16 \times 4$<br>$256 \times 256 \times 1, 64 \times 64 \times 4$<br>$512 \times 512 \times 1, 128 \times 128 \times 4$|[1]|
 ## Quality Assessment Indices
 ~~
-
+## Reference
+- [1] L.-j. Deng, G. Vivone, M. E. Paoletti, G. Scarpa, J. He, Y. Zhang, J. Chanussot, and A. Plaza, “Machine learning in pansharpening: A benchmark, from shallow to deep networks,” IEEE Geoscience and Remote Sensing Magazine, p. 279–315, Sep 2022.
+- [2] demo
