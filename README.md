@@ -10,6 +10,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 |JSTARS|IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing|
 |LGRS|IEEE Geoscience and Remote Sensing Letters|
 |TGRS|IEEE Transactions on Geoscience and Remote Sensing|
+|IF| Information Fusion |
 |NMSB|Number of Multi-Spectral Bands|
 |GSD|Ground Sample Distance|
 |RRT|Reduced Resolution Testing|
@@ -24,7 +25,9 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 |MSDCNN| 2018 |Yuan et al.|[JSTARS](https://ieeexplore.ieee.org/document/8127731)| 
 | DiCNN | 2019 | He et al. | [JSTARS](https://ieeexplore.ieee.org/document/8667040) |
 | BDPN  | 2019 |Zhang et al.|[TGRS](https://ieeexplore.ieee.org/document/8667448) |
-|FusionNet |2021 |Deng el al.| [TGRS](https://ieeexplore.ieee.org/document/9240949) |
+|FusionNet |2021 |Deng et al.| [TGRS](https://ieeexplore.ieee.org/document/9240949) |
+|P2Sharpen|2022| Zhang  et al.|[IF](https://doi.org/10.1016/j.inffus.2022.10.010)|
+|L-PNN|2023| Ciotola et al.| [TGRS](10.1109/TGRS.2023.3299356)|
 ## Datasets
 
 | Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
