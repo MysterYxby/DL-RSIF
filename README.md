@@ -24,7 +24,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | PanNet | 2017 | Yang et al. | [ICCV](https://ieeexplore.ieee.org/document/8237455) |
 |MSDCNN| 2018 |Yuan et al.|[JSTARS](https://ieeexplore.ieee.org/document/8127731)| 
 | DiCNN | 2019 | He et al. | [JSTARS](https://ieeexplore.ieee.org/document/8667040) |
-| BDPN  | 2019 |Zhang et al.|[TGRS](https://ieeexplore.ieee.org/document/8667448) |
+| BDPN  | 2019 |Zhang et al.|[TGRS](https://doi.org/10.1109/TGRS.2019.2900419) |
 |FusionNet |2021 |Deng et al.| [TGRS](https://ieeexplore.ieee.org/document/9240949) |
 |P2Sharpen|2022| Zhang  et al.|[IF](https://doi.org/10.1016/j.inffus.2022.10.010)|
 |L-PNN|2023| Ciotola et al.| [TGRS](https://doi.org/10.1109/TGRS.2023.3299356)|
