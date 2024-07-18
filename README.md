@@ -27,7 +27,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | BDPN  | 2019 |Zhang et al.|[TGRS](https://ieeexplore.ieee.org/document/8667448) |
 |FusionNet |2021 |Deng et al.| [TGRS](https://ieeexplore.ieee.org/document/9240949) |
 |P2Sharpen|2022| Zhang  et al.|[IF](https://doi.org/10.1016/j.inffus.2022.10.010)|
-|L-PNN|2023| Ciotola et al.| [TGRS](10.1109/TGRS.2023.3299356)|
+|L-PNN|2023| Ciotola et al.| [TGRS](https://doi.org/10.1109/TGRS.2023.3299356)|
 ## Datasets
 
 | Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
