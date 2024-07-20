@@ -23,17 +23,17 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 ## Methods--Tradition
 | Methods | Year | Author | From | 
 |:-------:|:-------:|:-------:|:-------:|
-|Brovey| 1987 |Gillespie et al. | [RSE](https://doi.org/10.1109/LGRS.2017.2736020) 1|
-|PCA|1989| Chavez et al.| [PERS](https://doi.org/10.1109/TGRS.2023.3299356) 8|
-|IHS |1990 |Carper et al.| [PERS](https://doi.org/10.1109/TGRS.2020.3031366) 5|
-|SFIM|2000| Liu et al.| [IJRS](https://doi.org/10.1109/TGRS.2023.3299356) 9|
-| GS | 2000 | Laben et al. | [U.S. Patent](https://doi.org/10.1109/JSTARS.2019.2898574) 3|
-|Wavelet|2001| King et al.| [IGARSS](https://doi.org/10.1109/IGARSS.2001.976657) 10|
+|Brovey| 1987 |Gillespie et al. | [RSE](https://doi.org/10.1016/0034-4257(87)90088-5) [1]|
+|PCA|1989| Chavez et al.| [PERS](https://doi.org/10.1109/TGRS.2023.3299356) [8]
+|IHS |1990 |Carper et al.| [PERS](https://doi.org/10.1109/TGRS.2020.3031366) [5]|
+|SFIM|2000| Liu et al.| [IJRS](https://doi.org/10.1109/TGRS.2023.3299356) [9]|
+| GS | 2000 | Laben et al. | U.S. Patent [3]|
+|Wavelet|2001| King et al.| [IGARSS](https://doi.org/10.1109/IGARSS.2001.976657) [10]|
 |MTF_GLP|2002| Aiazzi et al.| [TGRS](https://doi.org/10.1109/TGRS.2023.3299356) 7|
 |MTF_GLP_HPM|2006| Aiazzi  et al.|[PERS](https://doi.org/10.1016/j.inffus.2022.10.010) 6|
 | GSA  | 2007 |Aiazzi et al.|[TGRS](https://doi.org/10.1109/TGRS.2019.2900419) 4|
 | CNMF | 2012 | Yokoya et al. | [TGRS](https://doi.org/10.1109/ICCV.2017.193) 11|
-|GFPCA| 2015 |Liao et al.|[WHISPERS](https://doi.org/10.1109/IGARSS.2017.8127731) 2| 
+|GFPCA| 2015 |Liao et al.|[WHISPERS](https://doi.org/10.1109/WHISPERS.2015.8075405) 2| 
 
 
 ## Methods--Deep Learning
