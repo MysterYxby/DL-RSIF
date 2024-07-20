@@ -59,8 +59,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 ## Quality Assessment Indices
 ~~
 ## Reference
-[^1^]: A. R. Gillespie, A. B. Kahle, and R. E. Walker, “Color enhancement of highly correlated images-II. Channel ratio and “Chromaticity” Transform techniques,” Remote Sensing of Environment, vol. 22, no. 3, pp. 343–365, August 1987
-[^2^]: W. Liao et al., "Two-stage fusion of thermal hyperspectral and visible RGB image by PCA and guided filter," 2015 7th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Tokyo, 2015, pp. 1-4.
+[^1^]: A. R. Gillespie, A. B. Kahle, and R. E. Walker, “Color enhancement of highly correlated images-II. Channel ratio and “Chromaticity” Transform techniques,” Remote Sensing of Environment, vol. 22, no. 3, pp. 343–365, August 1987.[^2^]: W. Liao et al., "Two-stage fusion of thermal hyperspectral and visible RGB image by PCA and guided filter," 2015 7th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Tokyo, 2015, pp. 1-4.
 [^3^]: C. A. Laben and B. V. Brower, “Process for enhancing the spatial resolution of multispectral imagery using pan-sharpening,” Eastman Kodak Company, Tech. Rep. US Patent # 6,011,875, 2000.
 [^4^]: B. Aiazzi, S. Baronti, and M. Selva, “Improving component substitution Pansharpening through multivariate regression of MS+Pan data,” IEEE Transactions on Geoscience and Remote Sensing, vol. 45, no. 10, pp. 3230–3239, October 2007.
 [^5^]: W. Carper, T. Lillesand, and R. Kiefer, “The use of Intensity-Hue-Saturation transformations for merging SPOT panchromatic and multispectral image data,” Photogrammetric Engineering and Remote Sensing, vol. 56, no. 4, pp. 459–467, April 1990.
@@ -80,4 +79,3 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 [^19^]: Hao Zhang, Hebaixu Wang, Xin Tian, Jiayi Ma, P2Sharpen: A progressive pansharpening network with deep spectral transformation, Information Fusion, Volume 91, March 2023, Pages 103-122.
 [^20^]: M. Ciotola, G. Poggi and G. Scarpa, "Unsupervised Deep Learning-Based Pansharpening With Jointly Enhanced Spectral and Spatial Fidelity," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-17, 2023, Art no. 5405417, doi: 10.1109/TGRS.2023.3299356. 
 [^21^]: L.-j. Deng, G. Vivone, M. E. Paoletti, G. Scarpa, J. He, Y. Zhang, J. Chanussot, and A. Plaza, “Machine learning in pansharpening: A benchmark, from shallow to deep networks,” IEEE Geoscience and Remote Sensing Magazine, p. 279–315, Sep 2022.
-
