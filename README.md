@@ -23,7 +23,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 ## Methods--Tradition
 | Methods | Year | Author | From | 
 |:-------:|:-------:|:-------:|:-------:|
-|Brovey| 1987 |Gillespie et al. | [RSE](https://doi.org/10.1016/0034-4257(87)90088-5) [1]|
+|Brovey| 1987 |Gillespie et al. | [RSE](https://doi.org/10.1016/0034-4257(87)90088-5) [^1^]|
 |PCA|1989| Chavez et al.| PERS [8]
 |IHS |1990 |Carper et al.| [PERS](https://arxiv.org/pdf/2203.04286) [5]|
 |SFIM|2000| Liu et al.| [IJRS](https://doi.org/10.1080/014311600750037499) [9]|
@@ -59,7 +59,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 ## Quality Assessment Indices
 ~~
 ## Reference
-1. A. R. Gillespie, A. B. Kahle, and R. E. Walker, “Color enhancement of highly correlated images-II. Channel ratio and “Chromaticity” Transform techniques,” Remote Sensing of Environment, vol. 22, no. 3, pp. 343–365, August 1987.
+[^1^]. A. R. Gillespie, A. B. Kahle, and R. E. Walker, “Color enhancement of highly correlated images-II. Channel ratio and “Chromaticity” Transform techniques,” Remote Sensing of Environment, vol. 22, no. 3, pp. 343–365, August 1987.
 2. W. Liao et al., "Two-stage fusion of thermal hyperspectral and visible RGB image by PCA and guided filter," 2015 7th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Tokyo, 2015, pp. 1-4.
 3. C. A. Laben and B. V. Brower, “Process for enhancing the spatial resolution of multispectral imagery using pan-sharpening,” Eastman Kodak Company, Tech. Rep. US Patent # 6,011,875, 2000.
 4. B. Aiazzi, S. Baronti, and M. Selva, “Improving component substitution Pansharpening through multivariate regression of MS+Pan data,” IEEE Transactions on Geoscience and Remote Sensing, vol. 45, no. 10, pp. 3230–3239, October 2007.
