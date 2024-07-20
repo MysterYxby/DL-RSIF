@@ -24,15 +24,15 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | Methods | Year | Author | From | 
 |:-------:|:-------:|:-------:|:-------:|
 |Brovey| 1987 |Gillespie et al. | [RSE](https://doi.org/10.1016/0034-4257(87)90088-5) [1]|
-|PCA|1989| Chavez et al.| [PERS](https://doi.org/10.1109/TGRS.2023.3299356) [8]
-|IHS |1990 |Carper et al.| [PERS](https://doi.org/10.1109/TGRS.2020.3031366) [5]|
-|SFIM|2000| Liu et al.| [IJRS](https://doi.org/10.1109/TGRS.2023.3299356) [9]|
+|PCA|1989| Chavez et al.| PERS [8]
+|IHS |1990 |Carper et al.| [PERS](https://arxiv.org/pdf/2203.04286) [5]|
+|SFIM|2000| Liu et al.| [IJRS](https://doi.org/10.1080/014311600750037499) [9]|
 | GS | 2000 | Laben et al. | U.S. Patent [3]|
-|Wavelet|2001| King et al.| [IGARSS](https://doi.org/10.1109/IGARSS.2001.976657) [10]|
-|MTF_GLP|2002| Aiazzi et al.| [TGRS](https://doi.org/10.1109/TGRS.2023.3299356) 7|
-|MTF_GLP_HPM|2006| Aiazzi  et al.|[PERS](https://doi.org/10.1016/j.inffus.2022.10.010) 6|
-| GSA  | 2007 |Aiazzi et al.|[TGRS](https://doi.org/10.1109/TGRS.2019.2900419) 4|
-| CNMF | 2012 | Yokoya et al. | [TGRS](https://doi.org/10.1109/ICCV.2017.193) 11|
+|Wavelet|2001| King et al.| [IGARSS](10.1109/IGARSS.2001.976657) [10]|
+|MTF_GLP|2002| Aiazzi et al.| [TGRS](https://doi.org/10.1109/TGRS.2002.803623) 7|
+|MTF_GLP_HPM|2006| Aiazzi  et al.|[PERS](https://doi.org/10.14358/PERS.72.5.591) 6|
+| GSA  | 2007 |Aiazzi et al.|[TGRS](https://doi.org/10.1109/TGRS.2007.901007) 4|
+| CNMF | 2012 | Yokoya et al. | [TGRS](https://doi.org/10.1109/TGRS.2011.2161320) 11|
 |GFPCA| 2015 |Liao et al.|[WHISPERS](https://doi.org/10.1109/WHISPERS.2015.8075405) 2| 
 
 
@@ -47,7 +47,7 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | BDPN  | 2019 |Zhang et al.|[TGRS](https://doi.org/10.1109/TGRS.2019.2900419) |
 |FusionNet |2021 |Deng et al.| [TGRS](https://doi.org/10.1109/TGRS.2020.3031366) |
 |P2Sharpen|2022| Zhang  et al.|[IF](https://doi.org/10.1016/j.inffus.2022.10.010)|
-|L-PNN|2023| Ciotola et al.| [IGARSS](https://doi.org/10.1109/TGRS.2023.3299356)|
+|L-PNN|2023| Ciotola et al.| [TGRS](https://doi.org/10.1109/TGRS.2023.3299356)|
 ## Datasets
 
 | Name | NMSB| Type | GSD | Sets | Sample Number | Image Size | From |
