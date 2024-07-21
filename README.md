@@ -29,11 +29,12 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 |SFIM|2000| Liu et al.| [IJRS](https://doi.org/10.1080/014311600750037499) [^9^]|
 | GS | 2000 | Laben et al. | U.S. Patent [^3^]|
 |Wavelet|2001| King et al.| [IGARSS](10.1109/IGARSS.2001.976657) [^10^] |
-|MTF_GLP|2002| Aiazzi et al.| [TGRS](https://doi.org/10.1109/TGRS.2002.803623) [^7^] |
+|EXP|2002| Aiazzi et al.| [TGRS](https://doi.org/10.1109/TGRS.2002.803623) [^7^] |
 |MTF_GLP_HPM|2006| Aiazzi  et al.|[PERS](https://doi.org/10.14358/PERS.72.5.591) [^6^]|
 | GSA  | 2007 |Aiazzi et al.|[TGRS](https://doi.org/10.1109/TGRS.2007.901007) [^4^] |
 | CNMF | 2012 | Yokoya et al. | [TGRS](https://doi.org/10.1109/TGRS.2011.2161320) [^11^] |
 |GFPCA| 2015 |Liao et al.|[WHISPERS](https://doi.org/10.1109/WHISPERS.2015.8075405) [^2^]| 
+|MTF_GLP|2017| Alparone et al.| [TGRS](https://doi.org/10.1109/TGRS.2017.2697943) [^22^] |
 
 
 ## Methods--Deep Learning
@@ -80,3 +81,4 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 [^19^]: Hao Zhang, Hebaixu Wang, Xin Tian, Jiayi Ma, P2Sharpen: A progressive pansharpening network with deep spectral transformation, Information Fusion, Volume 91, March 2023, Pages 103-122.
 [^20^]: M. Ciotola, G. Poggi and G. Scarpa, "Unsupervised Deep Learning-Based Pansharpening With Jointly Enhanced Spectral and Spatial Fidelity," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-17, 2023, Art no. 5405417, doi: 10.1109/TGRS.2023.3299356. 
 [^21^]: L.-j. Deng, G. Vivone, M. E. Paoletti, G. Scarpa, J. He, Y. Zhang, J. Chanussot, and A. Plaza, “Machine learning in pansharpening: A benchmark, from shallow to deep networks,” IEEE Geoscience and Remote Sensing Magazine, p. 279–315, Sep 2022.
+[^22^]: L. Alparone, A. Garzelli, and G. Vivone, “Intersensor statistical matching for pansharpening: Theoretical issues and practical solutions,” IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 8, pp. 4682–4695, 2017.
