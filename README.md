@@ -30,11 +30,11 @@ Replication of Remote Sensing Image Pansharpening Task Code and Comparison of Ev
 | GS | 2000 | Laben et al. | U.S. Patent [^3^]|
 |Wavelet|2001| King et al.| [IGARSS](10.1109/IGARSS.2001.976657) [^10^] |
 |EXP|2002| Aiazzi et al.| [TGRS](https://doi.org/10.1109/TGRS.2002.803623) [^7^] |
-|MTF_GLP_HPM|2006| Aiazzi  et al.|[PERS](https://doi.org/10.14358/PERS.72.5.591) [^6^]|
 | GSA  | 2007 |Aiazzi et al.|[TGRS](https://doi.org/10.1109/TGRS.2007.901007) [^4^] |
 | CNMF | 2012 | Yokoya et al. | [TGRS](https://doi.org/10.1109/TGRS.2011.2161320) [^11^] |
 |GFPCA| 2015 |Liao et al.|[WHISPERS](https://doi.org/10.1109/WHISPERS.2015.8075405) [^2^]| 
 |MTF_GLP|2017| Alparone et al.| [TGRS](https://doi.org/10.1109/TGRS.2017.2697943) [^22^] |
+|MTF_GLP_HPM|2017| Alparone et al.| [TGRS](https://doi.org/10.1109/TGRS.2017.2697943) [^22^] |
 
 
 ## Methods--Deep Learning
